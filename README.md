@@ -21,7 +21,7 @@
 
 ``` [root@repo ~]# yum install -y wget rpmdevtools rpm-build createrepo yum-utils cmake gcc git nano ```
 
-### Собираем пакет Nginx c дополнительным модулем  ngx_broli
+### Собираем пакет Nginx c дополнительным модулем  ngx_brotli
 
 Загрузим SRPM пакет Nginx для дальнейшей работы над ним:
 
